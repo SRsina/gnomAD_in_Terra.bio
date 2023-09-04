@@ -5,5 +5,5 @@ Retrieving vcf file for the wanted genes or ranges in order to do further analys
 
 Personally I suggest you look for a high storage and high performance machine which can retrieve locally but if you did not have this machine, this is the place for you to have progress in your work but again you have limitations here as well and that's budget.
 
-If you are not familiar with Terra.bio or Google cloud I strongly suggest you to read [*This File*](https://docs.google.com/document/d/1I0j3kr5pbtTBZ4qw8SJic0qtUXmAjxieKx9kX3ouI5Y/edit?usp=sharing)
+If you are not familiar with Terra.bio or Google cloud I strongly suggest you to read [*This File*](https://docs.google.com/document/d/159RpVsf_57aHSJt2yB7NzdeLQ1VHWMIokKHInrIc3fI/edit?usp=sharing)
 
