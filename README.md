@@ -1,4 +1,4 @@
-# gnomAD_in_Terra.bio
+# gnomAD_v3_in_Terra.bio
 Repatriating VCF file for a lot of genes or range of genes using gnomAD Hail table in Terra.bio platform 
 
 Retrieving vcf file for the wanted genes or ranges in order to do further analysis on them using VEP (Ensembl Variant Effect Predictor) or ANNOVAR when the number of ranges exceed a certain amount which you can not do them manually is very hard because either you need to have a very high storage and/or a high performance machine or you need to use the available cloud engines to do so.
